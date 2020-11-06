@@ -12,5 +12,15 @@ body{
 
 }
 
-
+.card-text{
+    font-family: 'IM Fell English SC', serif;
+}
  
+.card-title{
+    font-family: 'IM Fell English SC', serif;
+
+}
+
+.card {
+    border-color: chocolate;
+}
